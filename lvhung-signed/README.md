@@ -1,6 +1,4 @@
 
-# <p align="center">Zekas VIP Hub</p>
-
 <p align="center">
   <em>Hệ thống cấu hình tối ưu Shadowrocket và mô-đun mở khóa tính năng cao cấp</em>
 </p>
