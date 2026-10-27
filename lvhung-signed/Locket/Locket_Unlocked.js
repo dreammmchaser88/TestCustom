@@ -387,7 +387,7 @@ try {
                         { overlay_id: "caption:tuong_love_hoa_ra_lop", source: "remote", caption: { background: { colors: ["#C9184A", "#FF4D6D", "#FFB3C6"] }, icon: { data: "❤️‍🩹", type: "emoji" }, max_lines: 1, text: "Lốp Trưởng", text_color: "#64152F", type: "static_content" } },
                 },
                 {
-                    section: "Lễ Hội tí nhờ",
+                    section: "Holiday",
                     items: [
                         { overlay_id: "caption:halloween_2026", source: "remote", caption: { background: { colors: ["#150804", "#C8540D"] }, icon: { type: "image", data: "https://storage.googleapis.com/locket-public/journal_calendar_assets/holiday_indicators/halloween_indicator%403x.png", source: "url" }, max_lines: 1, text: "Halloween", localized_text: { en: "Halloween", vn: "Halloween" }, text_color: "#FFB182", type: "static_content" } },
                         { overlay_id: "caption:spring", source: "remote", caption: { background: { colors: ["#FFB7C5", "#FF7EB3"] }, icon: { data: "🌸", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Xuân", localized_text: { en: "Xin chào Mùa Xuân", vn: "Xin chào Mùa Xuân" }, text_color: "#FFFFFF", type: "static_content" } },
