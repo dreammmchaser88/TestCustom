@@ -51,7 +51,7 @@ try {
                 tag: "LOCKET PRO MAX",
                 tag_gradient: true,
                 tag_style: "gold_gradient",
-                title: "Lên Locket Gold rồi đó 😎",
+                title: "Lên Locket Gold rồi đấyyy",
                 feature_set: [
                     {
                         title: "Nhớ cảm ơn Leo Vẹt Heng đẹp zai nhóoo ✨",
