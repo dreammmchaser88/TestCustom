@@ -378,13 +378,14 @@ try {
                     items: [
                         { overlay_id: "caption:vietthungg88", source: "remote", caption: { background: { colors: ["#B8E7FF", "#31A5C3", "#1EC3DC"] }, icon: { data: "🐣", type: "emoji", color: "#183153" }, max_lines: 1, text: "LeVietHung", text_color: "#183153", type: "static_content" } },
                         { overlay_id: "caption:cr7_siuuuu", source: "remote", caption: { background: { colors: ["#E42518", "#000000"] }, text: "Siuuuuu!", localized_text: { en: "Siuuuuu!", vn: "Siuuuuu!" }, text_color: "#FFFFFF", type: "static_content" } },
-                        { overlay_id: "caption:mu_vua_nuoc_anh", source: "remote", caption: { background: { colors: ["#DA291C", "#530A0B"] }, icon: { data: "👑", type: "emoji" }, max_lines: 1, text: "MU là vua của nước Anh", text_color: "#d9e4eb", type: "static_content" } },
+                        { overlay_id: "caption:mu_vua_nuoc_anh", source: "remote", caption: { background: { colors: ["#DA291C", "#530A0B"] }, icon: { data: "👑", type: "emoji" }, max_lines: 1, text: "MU là vua của nước Anh", text_color: "#D9E4EB", type: "static_content" } },
                         { overlay_id: "caption:uong_bia", source: "remote", caption: { background: { colors: ["#F0C58E", "#F5D9A9", "#EBC6B8"] }, icon: { data: "🍻", type: "emoji" }, max_lines: 1, text: "Bơi hiaaaaa", text_color: "#65462D", type: "static_content" } },
                         { overlay_id: "caption:hoi_chieu_troi_mua", source: "remote", caption: { background: { image: { type: "image", data: "cloud_cover", source: "local" }, colors: ["#546E7A", "#263238"] }, icon: { data: "🌧️", type: "emoji" }, max_lines: 1, text: "Hồi chiều trời mưa...", text_color: "#FFFFFFE6", type: "static_content" } },
                         { overlay_id: "caption:bien_oiiii", source: "remote", caption: { background: { colors: ["#56CFE1", "#72EFDD", "#B8F3FF"] }, icon: { data: "🌊", type: "emoji" }, max_lines: 1, text: "Biển ơiiiii", text_color: "#124559", type: "static_content" } },
                         { overlay_id: "caption:chan_bo_may_di", source: "remote", caption: { background: { colors: ["#6A0572", "#AB1745", "#FF7B54"] }, icon: { data: "🙄", type: "emoji" }, max_lines: 1, text: "Chan bố mày điiiii", text_color: "#FFFFFF", type: "static_content" } },  
                         { overlay_id: "caption:toi_song_the_day", source: "remote", caption: { background: { colors: ["#202124", "#525866", "#AAB2C0"] }, icon: { data: "😇", type: "emoji" }, max_lines: 1, text: "Đời bố bố quản", text_color: "#FFFFFF", type: "static_content" } },
                         { overlay_id: "caption:tuong_love_hoa_ra_lop", source: "remote", caption: { background: { colors: ["#C9184A", "#FF4D6D", "#FFB3C6"] }, icon: { data: "❤️‍🩹", type: "emoji" }, max_lines: 1, text: "Lốp Trưởng", text_color: "#64152F", type: "static_content" } },
+                    ]
                 },
                 {
                     section: "Holiday",
